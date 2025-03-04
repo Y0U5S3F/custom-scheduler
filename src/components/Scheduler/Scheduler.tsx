@@ -26,7 +26,7 @@ const Scheduler = ({
       zoom: 0,
       filterButtonState: 1,
       includeTakenHoursOnWeekendsInDayView: false,
-      showTooltip: true,
+      showTooltip: false,
       translations: undefined,
       ...config
     }),
