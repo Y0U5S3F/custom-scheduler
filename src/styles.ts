@@ -77,8 +77,8 @@ export const darkTheme: Theme = {
   mode: "dark",
   navHeight: "44px",
   colors: {
-    background: "#161B22",
-    gridBackground: "#1E252E",
+    background: "#121212",
+    gridBackground: "#121212",
 
     primary: "#303b49",
     secondary: "#444e5b",
